@@ -1,0 +1,10 @@
+{
+  "printWidth": 100,
+  "singleQuote": true,
+  "trailingComma": "all",
+  "proseWrap": "never",
+  "overrides": [
+    { "files": ".prettierrc", "options": { "parser": "json" } },
+    { "files": ".stylelintrc", "options": { "parser": "json" } }
+  ]
+}
